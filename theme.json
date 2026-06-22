@@ -1,0 +1,31 @@
+{
+  "name": "GTA 6 Vice City Neon",
+  "description": "GTA 6 Vice City Neon style theme with custom background.",
+  "authors": [
+    {
+      "name": "Joey"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#ffffff"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_LINK": ["#00f0ff"],
+    "BACKGROUND_PRIMARY": ["#0b0914"],
+    "BACKGROUND_SECONDARY": ["#131021"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#0b0914"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#131021"],
+    "CHAT_BACKGROUND": ["#0b0914"]
+  },
+  "rawColors": {
+    "BRAND_500": "#ff1493",
+    "PRIMARY_600": "#0b0914",
+    "PRIMARY_700": "#131021"
+  },
+  "background": {
+    "url": "PASTE_YOUR_RAW_IMAGE_URL_HERE",
+    "blur": 0,
+    "alpha": 0.35,
+    "color": "#0b0914"
+  }
+}
