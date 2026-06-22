@@ -1,54 +1,59 @@
 {
-  "name": "GTA VI: Vice City Overdrive",
-  "description": "High-contrast neon synthwave layout using the official GTA 6 color palette.",
+  "name": "GTA VI: Vice City Pink Force",
+  "description": "Forced neon pink accent layout with a deep dark synthwave base.",
   "authors": [
     {
-      "name": "Raul Bautista"
+      "name": "Joey"
     }
   ],
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": ["#ffffff"],
     "HEADER_SECONDARY": ["#00f0ff"],
-    "TEXT_NORMAL": ["#f5f5f5"],
+    "TEXT_NORMAL": ["#ffffff"],
     "TEXT_MUTED": ["#ff8c00"],
     "TEXT_LINK": ["#00f0ff"],
-    "TEXT_LINK_LOW_SATURATION": ["#00caf0"],
     
     "BACKGROUND_PRIMARY": ["#0b0914"],
     "BACKGROUND_SECONDARY": ["#131021"],
     "BACKGROUND_SECONDARY_ALT": ["#0b0914"],
     "BACKGROUND_TERTIARY": ["#05040a"],
     "BACKGROUND_FLOATING": ["#1a152e"],
-    "BACKGROUND_ACCENT": ["#ff1493"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#ff1493"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#ff149340"],
-    "BACKGROUND_MODIFIER_HOVER": ["#00f0ff33"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#ff149359"],
     
     "BACKGROUND_MOBILE_PRIMARY": ["#0b0914"],
     "BACKGROUND_MOBILE_SECONDARY": ["#131021"],
     "CHAT_BACKGROUND": ["#0b0914"],
-    
-    "CHANNEL_ICON": ["#00f0ff"],
-    "CHANNEL_ICON_SELECTED": ["#ff1493"],
-    "CHANNELS_DEFAULT": ["#00f0ffb3"],
     "CHANNELTEXTAREA_BACKGROUND": ["#1a152e"],
     
+    "BACKGROUND_ACCENT": ["#ff1493"],
+    "BACKGROUND_MENTIONED": ["#ff149326"],
+    "BACKGROUND_MENTIONED_HOVER": ["#ff149340"],
+    
+    "BACKGROUND_MODIFIER_ACCENT": ["#ff1493"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#ff149359"],
+    "BACKGROUND_MODIFIER_HOVER": ["#ff149333"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#ff1493ffff"],
+    
+    "CHANNEL_ICON_SELECTED": ["#ff1493"],
+    "CHANNELS_DEFAULT": ["#00f0ffcc"],
+    
     "INTERACTIVE_NORMAL": ["#00f0ff"],
-    "INTERACTIVE_HOVER": ["#ff4500"],
+    "INTERACTIVE_HOVER": ["#ff1493"],
     "INTERACTIVE_ACTIVE": ["#ff1493"],
-    "INTERACTIVE_MUTED": ["#ff8c00"]
+    
+    "SELECTION_MENTION_BORDER": ["#ff1493"],
+    "STATUS_DANGER": ["#ff1493"],
+    "TEXT_BRAND": ["#ff1493"]
   },
   "rawColors": {
+    "BRAND_260": "#ff1493",
+    "BRAND_360": "#ff1493",
     "BRAND_500": "#ff1493",
-    "BRAND_560": "#d60072",
+    "BRAND_560": "#ff1493",
     "BRAND_600": "#ff1493",
-    "PRIMARY_100": "#ffffff",
-    "PRIMARY_200": "#00f0ff",
-    "PRIMARY_300": "#ff8c00",
+    "BRAND_NEW_500": "#ff1493",
+    "PLUM_13": "#ff1493",
     "PRIMARY_600": "#0b0914",
-    "PRIMARY_630": "#0b0914",
     "PRIMARY_700": "#131021",
     "PRIMARY_800": "#05040a"
   },
