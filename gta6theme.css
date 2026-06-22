@@ -1,0 +1,27 @@
+:root {
+  /* GTA 6 Vice City Neon Color Palette */
+  --gta6-neon-pink: #ff1493;
+  --gta6-ocean-blue: #00f0ff;
+  --gta6-sunset-orange: #ff4500;
+  --gta6-dark-bg: #0b0914;
+
+  /* App Background Overrides */
+  --background-primary: var(--gta6-dark-bg);
+  --background-secondary: #131021;
+  
+  /* Text & Highlight Elements */
+  --text-normal: #ffffff;
+  --text-link: var(--gta6-ocean-blue);
+  --brand-experiment: var(--gta6-neon-pink);
+  
+  /* Custom Accent Borders */
+  --gta-border: 1px solid var(--gta6-neon-pink);
+}
+
+/* Optional: Add a custom Vice City background image to your chat container */
+.chat-2ZfGZ6 {
+  background-image: url('');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.95;
+}
