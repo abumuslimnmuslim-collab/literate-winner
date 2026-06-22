@@ -1,31 +1,61 @@
 {
-  "name": "GTA 6 Vice City Neon",
-  "description": "GTA 6 Vice City Neon style theme with custom background.",
+  "name": "GTA VI: Vice City Overdrive",
+  "description": "High-contrast neon synthwave layout using the official GTA 6 color palette.",
   "authors": [
     {
-      "name": "Raul"
+      "name": "Raul Bautista"
     }
   ],
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": ["#ffffff"],
-    "TEXT_NORMAL": ["#ffffff"],
+    "HEADER_SECONDARY": ["#00f0ff"],
+    "TEXT_NORMAL": ["#f5f5f5"],
+    "TEXT_MUTED": ["#ff8c00"],
     "TEXT_LINK": ["#00f0ff"],
+    "TEXT_LINK_LOW_SATURATION": ["#00caf0"],
+    
     "BACKGROUND_PRIMARY": ["#0b0914"],
     "BACKGROUND_SECONDARY": ["#131021"],
+    "BACKGROUND_SECONDARY_ALT": ["#0b0914"],
+    "BACKGROUND_TERTIARY": ["#05040a"],
+    "BACKGROUND_FLOATING": ["#1a152e"],
+    "BACKGROUND_ACCENT": ["#ff1493"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#ff1493"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#ff149340"],
+    "BACKGROUND_MODIFIER_HOVER": ["#00f0ff33"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#ff149359"],
+    
     "BACKGROUND_MOBILE_PRIMARY": ["#0b0914"],
     "BACKGROUND_MOBILE_SECONDARY": ["#131021"],
-    "CHAT_BACKGROUND": ["#0b0914"]
+    "CHAT_BACKGROUND": ["#0b0914"],
+    
+    "CHANNEL_ICON": ["#00f0ff"],
+    "CHANNEL_ICON_SELECTED": ["#ff1493"],
+    "CHANNELS_DEFAULT": ["#00f0ffb3"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#1a152e"],
+    
+    "INTERACTIVE_NORMAL": ["#00f0ff"],
+    "INTERACTIVE_HOVER": ["#ff4500"],
+    "INTERACTIVE_ACTIVE": ["#ff1493"],
+    "INTERACTIVE_MUTED": ["#ff8c00"]
   },
   "rawColors": {
     "BRAND_500": "#ff1493",
+    "BRAND_560": "#d60072",
+    "BRAND_600": "#ff1493",
+    "PRIMARY_100": "#ffffff",
+    "PRIMARY_200": "#00f0ff",
+    "PRIMARY_300": "#ff8c00",
     "PRIMARY_600": "#0b0914",
-    "PRIMARY_700": "#131021"
+    "PRIMARY_630": "#0b0914",
+    "PRIMARY_700": "#131021",
+    "PRIMARY_800": "#05040a"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/abumuslimnmuslim-collab/literate-winner/refs/heads/main/file_000000000e5c720a8e9f79c444e24e48.png?token=GHSAT0AAAAAAEAVPNJLEOKFF7XUH6QH467W2RZT3CQ",
+    "url": "https://raw.githubusercontent.com/abumuslimnmuslim-collab/literate-winner/refs/heads/main/file_000000000e5c720a8e9f79c444e24e48.png?token=GHSAT0AAAAAAEAVPNJKN5ZMSHNGLRDYOXNU2RZUBYA",
     "blur": 0,
-    "alpha": 0.35,
+    "alpha": 0.22,
     "color": "#0b0914"
   }
 }
