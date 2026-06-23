@@ -178,8 +178,7 @@
   },
   "background": {
     "blur": 0,
-    "url" : "https://raw.githubusercontent.com/abumuslimnmuslim-collab/literate-winner/refs/heads/main/file_000000000e5c720a8e9f79c444e24e48.png?token=GHSAT0AAAAAAEAVPNJKN5ZMSHNGLRDYOXNU2RZUBYA",
-    "alpha": 1
+    "url" : "https://raw.githubusercontent.com/abumuslimnmuslim-collab/literate-winner/refs/heads/main/file_000000000e5c720a8e9f79c444e24e48.png"
   },
   "plus": {
     "version": "0",
@@ -521,7 +520,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://raw.githubusercontent.com/abumuslimnmuslim-collab/literate-winner/refs/heads/main/file_000000000e5c720a8e9f79c444e24e48.png?token=GHSAT0AAAAAAEAVPNJKN5ZMSHNGLRDYOXNU2RZUBYA",
+    "url": "https://raw.githubusercontent.com/abumuslimnmuslim-collab/literate-winner/refs/heads/main/file_000000000e5c720a8e9f79c444e24e48.png",
     "alpha": 0.22
   },
   "plus": {
@@ -743,7 +742,7 @@
     "PRIMARY_800": "#05040a"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/abumuslimnmuslim-collab/literate-winner/refs/heads/main/file_000000000e5c720a8e9f79c444e24e48.png?token=GHSAT0AAAAAAEAVPNJKN5ZMSHNGLRDYOXNU2RZUBYA",
+    "url": "https://raw.githubusercontent.com/abumuslimnmuslim-collab/literate-winner/refs/heads/main/file_000000000e5c720a8e9f79c444e24e48.png",
     "blur": 0,
     "alpha": 0.22,
     "color": "#0b0914"
